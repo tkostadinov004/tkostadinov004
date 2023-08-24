@@ -2,7 +2,7 @@
 <h3 align="center">Hi, my name is Teodor and I'm an 18-year-old passionate backend developer from Bulgaria.</h3>
 
 - 🔭 I’m currently working on [CinemaTic](https://github.com/tkostadinov004/CinemaTic)
-- 🌱 I’m currently learning **Spring** and **C++**
+- 🌱 I’m currently learning **Python** and **C++**
 - 💬 Ask me about **C#, ASP.NET Core, Entity Framework Core**
 - 📫 How to reach me: **tkostadinov04@gmail.com**
 
