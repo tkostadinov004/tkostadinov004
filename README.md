@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teodor</h1>
-<h3 align="center">Hi, my name is Teodor and I'm an 18-year-old passionate backend developer from Bulgaria.</h3>
+<h3 align="center">Hi, my name is Teodor and I'm an 19-year-old passionate backend developer from Bulgaria.</h3>
 
 - 🔭 I’m currently working on [CinemaTic](https://github.com/tkostadinov004/CinemaTic)
 - 🌱 I’m currently learning **Python** and **C++**
